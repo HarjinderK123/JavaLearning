@@ -4,7 +4,13 @@ public class Lab9thTable {
     public static void main(String[] args) {
         int a = 9;
         int b = 1;
-        //**System.out.printf("9 * 1 = %d\n",a,b,a*b) ;
+        System.out.printf("%d * %d = %d", a,1,a).println();
+        System.out.printf("%d * %d = %d", a,2,a*2).println();
+        System.out.printf("%d * %d = %d", a,3,a*3).println();
+        System.out.printf("%d * %d = %d", a,4,a*4).println();
+        System.out.printf("%d * %d = %d", a,5,a*5).println();
+        System.out.printf("....");
+        System.out.printf("%d * %d = %d", a,10,a*10).println();
         //System.out.printf("9 * 1 = %d\n",a,++b,a*b) ;
         //System.out.printf("9 * 1 = %d\n",a,++b,a*b) ;
         //System.out.printf("9 * 1 = %d\n",a,++b,a*b) ;
