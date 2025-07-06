@@ -2,9 +2,9 @@ package ex_13_Functions;
 
 public class Lab130_Simple_Method {
     public static void main(String[] args) {
-pramod_f1();
-return_boolean();
-return_float_pi_value();
+      pramod_f1();
+     return_boolean();
+     return_float_pi_value();
     }
         static void pramod_f1 () {
             System.out.println("No Return");
